@@ -16,8 +16,8 @@
   <img align="center" alt="Bruno-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BrunoLTads&bg_color=0d1117&color=1a90ff&line=00aaff&point=57fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrunoLTads&bg_color=0d1117&color=1a90ff&line=00aaff&point=57fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrunoLTads}/count.svg" /></p> 
