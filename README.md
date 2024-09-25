@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596be&height=120&section=header"/>
-                                                                          Hello 👋
+                                                                          
 
-- 🌱 I’m currently learning algorithms and OOP.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/BrunoLTADS">
@@ -15,8 +15,6 @@
   <img align="center" alt="Bruno-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrunoLTads&bg_color=0d1117&color=1a90ff&line=00aaff&point=57fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
